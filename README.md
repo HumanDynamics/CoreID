@@ -4,8 +4,8 @@ For Human Dynamics group blockchain-backed individual identity open source proto
 
 * Background reading on Security: Handbook on Applied Security
 * Legal Hackers Open Source Project: https://www.meetup.com/Massachusetts-Legal-Hackers/events/240407743/
-* For JWD:
-* For Signing Code:
+* For anvilresearch/jose - JSON Object Signing and Encryption for Node.js and the browser
+* For Signing Code: LightWallet
 
 
 * First Shared Diagram: https://www.draw.io/#Halexfigtree%2FCoreID%2Fmaster%2FInitialDiagram.xml
