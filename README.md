@@ -2,6 +2,12 @@
 
 For Human Dynamics group blockchain-backed individual identity open source prototype
 
+* Background reading on Security: Handbook on Applied Security
+* Legal Hackers Open Source Project: https://www.meetup.com/Massachusetts-Legal-Hackers/events/240407743/
+* For JWD:
+* For Signing Code:
+
+
 * First Shared Diagram: https://www.draw.io/#Halexfigtree%2FCoreID%2Fmaster%2FInitialDiagram.xml
 
 ## Getting Started 
